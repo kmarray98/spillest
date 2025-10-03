@@ -3,6 +3,7 @@ R package implementing estimators from the paper [`Estimating Spillovers from Sa
 
 # Current functions 
 Linear estimator under assumption 4a.
+
 Linear estimator under assumption 4b.
 
 2SLS estimator for nonlinear model under assumption 5. 
