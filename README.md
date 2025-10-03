@@ -6,6 +6,8 @@ Linear estimator under assumption 4a.
 
 Linear estimator under assumption 4b.
 
+Bootstrap estimator for uncertainty in linear estimators.
+
 2SLS estimator for nonlinear model under assumption 5. 
 
 ## Not included so far
