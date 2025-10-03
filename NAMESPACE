@@ -2,5 +2,6 @@
 
 export(rescaled_est_4a)
 export(rescaled_est_4b)
+export(rescaled_est_5)
 export(uniform_boostrap_ov)
 export(uniform_boostrap_un)
