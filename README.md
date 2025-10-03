@@ -10,5 +10,5 @@ Bootstrap estimator for uncertainty in linear estimators.
 
 2SLS estimator for nonlinear model under assumption 5. 
 
-## Not included so far
+## In progress
 Copula based estimators in section 4.
